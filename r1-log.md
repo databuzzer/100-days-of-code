@@ -16,4 +16,6 @@ Started looking for a project. I have some ideas but not quite clear yet on how 
 
 **Thoughts:** Feels good to start a project for real now, it's been on my mind for some time now.
 
-**Link to work:** Nothing to show yet. Projectlink on Github: https://github.com/databuzzer/100-days-of-code/  
+**Link to work:** Nothing to show yet. Projectlink on Github: https://github.com/databuzzer/100-days-of-code/
+
+**UPDATE:** Got a little work done, build the first web scraper for the first website.
