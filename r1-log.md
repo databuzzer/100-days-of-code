@@ -22,5 +22,5 @@ Started looking for a project. I have some ideas but not quite clear yet on how 
 
 ### R1D2: Thursday, July 30
 **Today's Progress:** Created the web scraping script for the 2nd store.
-**Thoughts:** I got the data points scripted in a web scraper for two stores now. Now it's time to think about how to use this data and how to combine it. The end result should give me insights on what the prices per product are in any of the scraped stores. For storage I could use a database. Need to think what database and how to set it's structure up.
+**Thoughts:** I got the data points scripted in a web scraper for two stores now. Now it's time to think about how to use this data and how to combine it. The end result should give me insights on what the prices per product are in any of the scraped stores. For storage I could use a database. Need to think what database and how to set it's structure up. Also need to learn how to work with GitHub for this project.
 **Link to work:** Note to self: Put the scripts on GitHub.
