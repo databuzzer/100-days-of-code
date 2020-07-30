@@ -19,3 +19,6 @@ Started looking for a project. I have some ideas but not quite clear yet on how 
 **Link to work:** Nothing to show yet. Projectlink on Github: https://github.com/databuzzer/100-days-of-code/
 
 **UPDATE:** Got a little work done, build the first web scraper for the first website.
+
+### R1D2: Thursday, July 30
+**Today's
