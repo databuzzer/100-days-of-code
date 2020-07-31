@@ -7,6 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [July 28, Tuesday, 2020].
 ### R1D0: Tuesday, July 28
 Started looking for a project. I have some ideas but not quite clear yet on how to bring it all together to something really useful. I will sleep on it tonight.  
 
+---
 ### R1D1: Wednesday, July 29
 **Today's Progress:** Figured out the project. It's going to be a Python based Price Comparison Tool for products I regularly buy myself. It's going to be about something like 30 products tracking prices from 10 webshops. The main phases of the project are going to be:
 1. Extract the data from the webshops concerning the products via Python Scrapy Framework.
@@ -20,6 +21,7 @@ Started looking for a project. I have some ideas but not quite clear yet on how 
 
 **UPDATE:** Got a little work done, build the first web scraper for the first website.  
 
+---
 ### R1D2: Thursday, July 30
 **Today's Progress:** Created the web scraping script for the 2nd store.
 
@@ -27,6 +29,7 @@ Started looking for a project. I have some ideas but not quite clear yet on how 
 
 **Link to work:** Note to self: Put the scripts on GitHub.  
 
+---
 ### R1D3: Friday, July 31
 **Today's Progress:** Figured out how to use GitHub in Visual Studio Code (VS Code or VSC). Did some research on how to hide/protect password information from GitHub
 repositories.
@@ -36,5 +39,6 @@ out what kind of database (MySQL, Postgres, SQLite, NoSQL?) and where and how I 
 
 **Link to work:** Current project is a [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool) here on my GitHub.  
 
+---
 
 
