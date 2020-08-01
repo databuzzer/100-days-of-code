@@ -40,5 +40,13 @@ out what kind of database (MySQL, Postgres, SQLite, NoSQL?) and where and how I 
 **Link to work:** Current project is a [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool) here on my GitHub.  
 
 ---
+### R1D4: Saturday, August 01
+**Today's Progress:** Researched possibilities to display the data online. Came to the conclusion that a Django web application hosted on AWS EC2 Free Tier would be the best option for now. 
+
+**Thoughts:** I think getting to know Django and AWS is a good investment. These are two very popular and used tools in web developement. Other options I've researched are Dash and Flask to present the data online and my own webserver, Heroku or PythonAnywhere instead of AWS.
+
+**Link to work:** Current project is a [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool) here on my GitHub.  
+
+---
 
 
