@@ -48,5 +48,14 @@ out what kind of database (MySQL, Postgres, SQLite, NoSQL?) and where and how I 
 **Link to work:** Current project is a [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool) here on my GitHub.  
 
 ---
+### R1D5: Sunday, August 02
+**Today's Progress:** Started with the JavaScript Algorithms and Data Structures Certification (300 hours) at freeCodeCamp.orgto get a feel for JavaScript. Since I already know the basics of Python I pick up the beginning smoothly.
+
+**Thoughts:** Since I was moving towards front-end with Python with Django I realized I might as well learn some JavaScript.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+
+---
 
 
