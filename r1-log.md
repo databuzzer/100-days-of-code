@@ -57,5 +57,14 @@ out what kind of database (MySQL, Postgres, SQLite, NoSQL?) and where and how I 
 freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
 
 ---
+### R1D6: Monday, August 03
+**Today's Progress:** Worked through the Basic JavaScript lessions 80 to 100. It's getting more complex now. :-)    
+
+**Thoughts:** I notice that the basics are easy because I already know Python. Learning Python, as my first language, was way harder.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+
+---
 
 
