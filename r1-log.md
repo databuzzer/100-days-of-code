@@ -66,5 +66,13 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
 
 ---
+### R1D7: Tuesday, August 04
+**Today's Progress:** Finished Basic JavaScript and ES6 from the JavaScript Algorithms and Data Structures Certification (300 hours) at freeCodeCamp.org.
 
+**Thoughts:** JavaScript is more satisfying than I initially thought it would be. Somehow I had a negative feeling towards it but that's completely gone now.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+
+---
 
