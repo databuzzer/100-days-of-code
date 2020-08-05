@@ -75,4 +75,12 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
 
 ---
+### R1D8: Wednesday, August 05
+**Today's Progress:** Finished Regular Expressions from the JavaScript Algorithms and Data Structures Certification (300 hours) at freeCodeCamp.org.
 
+**Thoughts:** I kind of love and hate regex at the same time. It's so powerful and yet so tricky to get right some times! ;-)
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+
+---
