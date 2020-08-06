@@ -84,3 +84,13 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
 
 ---
+### R1D9: Wednesday, August 05
+**Today's Progress:** Switched gears to developing a WordPress website according to the Udemy course [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/).
+
+**Thoughts:** Since WordPress is the foremost used CMS on the web it's useful to learn it.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
