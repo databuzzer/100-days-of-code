@@ -124,3 +124,13 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
 
 ---
+### R1D13: Monday, August 10
+**Today's Progress:** Continued working on the WordPress project in the course: learned about using the WP REST API and creating a custom one for providing data for the JavaScript based search function.
+
+**Thoughts:** Getting deeper in to the possibilities of WordPress and it's not disappointing! :D
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
