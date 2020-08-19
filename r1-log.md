@@ -214,5 +214,14 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
 
 ---
+### R1D22: Wednesday, August 19
+**Today's Progress:** Researched the full web development stack and thought out my next steps. I will spend some time on learning UX/UI for my next project.
 
+**Thoughts:** To be able to fully take on new web projects I also need to be able to do some prototyping, wire-framing and designing, therefor I will try Figma next.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
 
