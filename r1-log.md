@@ -234,7 +234,7 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
 
 ---
-### R1D24: Friday, August 20
+### R1D24: Friday, August 21
 **Today's Progress:** Started coding my Figma design into HTML & CSS.
 
 **Thoughts:** It has been a while since I coded HTML & CSS but it's coming back to me. :-)
@@ -244,3 +244,24 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
 
 ---
+### R1D25: Saturday, August 22
+**Today's Progress:** None! I took a break. :-)
+
+**Thoughts:** Breaks are good from time to time.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
+### R1D26: Sunday, August 23
+**Today's Progress:** Turned my Figma design into HTML/CSS.
+
+**Thoughts:** I need to learn flexbox.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
+
