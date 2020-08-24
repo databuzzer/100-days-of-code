@@ -264,4 +264,14 @@ freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (3
 Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
 
 ---
+### R1D27: Monday, August 24
+**Today's Progress:** Needed some extra skills on HTML/CSS so started on the Responsive Web Design Certification (300 hours) of freecodecamp.org. Did the first three chapters.
+
+**Thoughts:** Great to do a recap of HTML/CSS, and learned some new stuff as well like cubic-bezier.
+
+**Link to work:** Current project: [Price Comparison Tool](https://github.com/databuzzer/price_comparison_tool)  
+freeCodeCamp course: [JavaScript Algorithms and Data Structures Certification (300 hours)](https://www.freecodecamp.org/learn)
+Udemy course: [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/)
+
+---
 
